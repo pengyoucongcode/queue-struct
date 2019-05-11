@@ -16,16 +16,16 @@ but no matter how scheduled, the most basic requirement is the first step to que
    0--------结束
  =====================
  ```
- * My program testing steps are as follows
- 1) construct a cyclic queue SqQueue, and set the maximum length of the queue (MAXQSIZE) to 10; 
+* My program testing steps are as follows
+* 1) construct a cyclic queue SqQueue, and set the maximum length of the queue (MAXQSIZE) to 10; 
  The basic data type (ElemType) is defined as character type: 
- 2) the following data operations are implemented in sequence: 
- 12345deb Enqueue 
- 123 Dequeue 
- fghiIkh Enqueue 
- 45de Dequeue 
- nop Enqueue 
- 3) call ShowQueue display 2) all characters in the queue after all operations are completed.
+ * 2) the following data operations are implemented in sequence: 
+ * 12345deb Enqueue 
+ *  123 Dequeue 
+ * fghiIkh Enqueue 
+ * 45de Dequeue 
+ * nop Enqueue 
+ * 3) call ShowQueue display 2) all characters in the queue after all operations are completed.
  * The running results are as follows
  ```
           =====================
